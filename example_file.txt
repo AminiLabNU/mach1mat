@@ -1,0 +1,21 @@
+<Mach-1 File>
+<INFO>
+Date:	Mon, May 06, 2024
+Time:	12:27:19.434
+Mach-1 Motion Software Version:	4.4.0.17
+Mach-1 System S/N:	000000000
+Mach-1 System Model:	V500c
+Load Cell Name:	100N
+Load Cell Type:	Single-axis
+Load Cell Calibration Factor:	0.994070
+Load Cell Offset:	32.000000
+Load Cell Calibration Date:	2024-05-06
+<END INFO>
+<Move Absolute>
+Stage Axis:	Position (z)
+Position, mm:	2.0000
+Velocity, mm/s:	0.0330
+<DATA>
+Time, s	Position (z), mm	Fz, gf
+0.000000	0.000000	25.348794
+<END DATA>
